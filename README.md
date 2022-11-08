@@ -15,3 +15,5 @@ You professor uploaded a printout of code with line numbers like following?
 Worry no more, **splitter** is here!
 
 ## :nail_care: Beautiful Plots
+### FEM deformation plot
+
