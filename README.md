@@ -1,5 +1,8 @@
 # Useful Tools
 Text splitter, beautiful plots etc.
+
+**Note:** Markdown emojis are [here](https://gist.github.com/rxaviers/7360908).
+
 ## :hocho: Splitter
 You professor uploaded a printout of code with line numbers like following?
 
